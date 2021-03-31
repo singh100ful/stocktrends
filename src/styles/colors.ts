@@ -1,0 +1,9 @@
+export const PRIMARY = '#413174';
+export const SECONDARY = '#776D98';
+export const CHART = '#93C2EF';
+export const SUCCESS = '#EC2227';
+export const DANGER = '#3FB758';
+export const WARNING = '#FFD500';
+export const GRAY = '#949494';
+export const WHITE = '#F1F1F1';
+export const BLACK = '#011436';

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "725798024007",
+    "project_id": "stock-trends-d9f3c",
+    "storage_bucket": "stock-trends-d9f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725798024007:android:89727733dd3064998e5262",
+        "android_client_info": {
+          "package_name": "com.stocktrends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725798024007-s4gf35u1o8p7djq7h9uo0rrg01jqcu1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stocktrends",
+            "certificate_hash": "46d2505c35dc791bb82b0404acd795bca52cec17"
+          }
+        },
+        {
+          "client_id": "725798024007-go524ak9islora4h9u3c7ljdmmvklr3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvYkbUO3JGJxMSwVXLgvypR_mF9T0p9cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725798024007-go524ak9islora4h9u3c7ljdmmvklr3t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "725798024007-ejhprgl19e34o8d3r6dahca0vtfjns03.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.example.stocktrends"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

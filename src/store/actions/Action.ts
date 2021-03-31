@@ -1,0 +1,17 @@
+//LOGIN
+export const ADD_LOGIN = 'ADD_LOGIN';
+export const LOGIN_LOADING = 'LOGIN_LOADING';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+export const REMOVE_LOGIN = 'REMOVE_LOGIN';
+
+//SEARCH
+export const GET_SEARCH = 'GET_SEARCH';
+export const SEARCH_LOADING = 'SEARCH_LOADING';
+export const SEARCH_FAILED = 'SEARCH_FAILED';
+export const REMOVE_SEARCH = 'REMOVE_SEARCH';
+
+//STOCKS
+export const GET_STOCKS = 'GET_STOCKS';
+export const STOCKS_LOADING = 'STOCKS_LOADING';
+export const STOCKS_FAILED = 'STOCKS_FAILED';
+export const REMOVE_STOCKS = 'REMOVE_STOCKS';
